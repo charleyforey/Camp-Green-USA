@@ -2,15 +2,15 @@ body {
     background: url(https://media.giphy.com/media/1GyHGU3HoElj36snlQ/giphy.gif);
     background-blend-mode: soft-light;
     background-size: 120px;
-    background-color: #03030300;
+    background-color: #03030363;
 }
 
 a {
-    color: #02020200;
+    color: #0202024b;
 }
 a:hover,
 a:active {
-    color: #00000000;
+    color: #00000060;
 }
 label {
     opacity: 1 !important;
